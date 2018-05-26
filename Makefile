@@ -3,7 +3,7 @@ FRAGMENTS_PNG = $(patsubst %,%.png,$(FRAGMENTS))
 FRAGMENTS_PNG_600 = $(patsubst %,%-600.png,$(FRAGMENTS))
 FRAGMENTS_SVG = $(patsubst %,%.svg,$(FRAGMENTS))
 
-all: $(FRAGMENTS_PNG) $(FRAGMENTS_PNG_600) $(FRAGMENTS_SVG) brandbook.png
+all: $(FRAGMENTS_PNG) $(FRAGMENTS_PNG_600) $(FRAGMENTS_SVG) brandbook.png favicon.ico
 
 brandbook.png: Makefile brandbook.svg
 	inkscape -z brandbook.svg --export-png=brandbook.png
@@ -17,6 +17,9 @@ $(FRAGMENTS_PNG_600): Makefile brandbook.svg
 
 $(FRAGMENTS_SVG): Makefile brandbook.svg 
 	inkscape -z brandbook.svg -i $(patsubst %.svg,%,$@) -j --export-plain-svg=$@
-	
+
+favicon.ico: Makefile logo-color.svg
+	convert -density 384 logo-color.svg -define icon:auto-resize favicon.ico
+
 clean:
 	rm $(FRAGMENTS_PNG) $(FRAGMENTS_SVG) brandbook.png
