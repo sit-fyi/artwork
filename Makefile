@@ -1,4 +1,4 @@
-FRAGMENTS = logo-color logo-white logo-black
+FRAGMENTS = logo-color logo-white logo-black logo-circle-color
 FRAGMENTS_PNG = $(patsubst %,%.png,$(FRAGMENTS))
 FRAGMENTS_PNG_600 = $(patsubst %,%-600.png,$(FRAGMENTS))
 FRAGMENTS_SVG = $(patsubst %,%.svg,$(FRAGMENTS))

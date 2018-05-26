@@ -6,9 +6,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="0.63079119in"
-   height="0.63079119in"
-   viewBox="0 0 16.022095 16.022096"
+   width="0.63079166in"
+   height="0.63079166in"
+   viewBox="0 0 16.022108 16.022108"
    version="1.1"
    id="svg39810">
   <title
@@ -187,25 +187,30 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(-150.89613,64.329817)">
+     transform="translate(-312.1088,97.645773)">
     <g
        id="g1125"
        transform="translate(1.2415772e-5,32.072351)">
       <g
-         transform="matrix(0.16022096,0,0,0.16022096,418.24932,-368.7807)"
-         id="logo-black">
+         id="logo-circle-color"
+         transform="translate(328.15352,-15.969674)">
+        <circle
+           r="8.011054"
+           cy="-105.7374"
+           cx="-8.0336752"
+           id="path4649"
+           style="opacity:1;fill:url(#linearGradient4735);fill-opacity:1;stroke:none;stroke-width:3.80476499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
-           style="opacity:1;fill:url(#linearGradient27014-343-396-92-65);fill-opacity:1;stroke:none;stroke-width:0.8661347;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -1668.6531,1700.0181 c 33.3333,0 66.6667,0 100,0 0,33.3333 0,66.6666 0,100 -33.3333,0 -66.6667,0 -100,0 0,-33.3334 0,-66.6667 0,-100 z"
-           id="path27000" />
-        <path
-           id="path27002"
-           d="m -1662.5556,1706.1157 h 87.8049 v 87.8049 h -87.8049 z"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.195122;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.39432049;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m -1636.0725,1734.3432 c -4.0253,-0.01 -8.049,1.5044 -11.0963,4.5516 -6.0946,6.0948 -6.0594,16.0962 0.045,22.2009 6.105,6.105 15.9887,5.9964 22.1435,0.1016 l 11.6869,-11.1931 v 0 0 0 0 l 6.0821,-5.825 c 3.3931,-3.2497 8.507,-3.3036 11.8005,-0.01 3.294,3.2939 3.2991,8.4895 0.045,11.7432 -1.6269,1.6269 -3.7393,2.4394 -5.8568,2.4331 -2.019,-0.01 -4.0373,-0.7654 -5.6488,-2.2629 l -4.5436,4.2346 -0.8247,0.8719 c 3.0404,2.9885 7.0232,4.494 11.006,4.504 4.0253,0.01 8.049,-1.5042 11.0964,-4.5515 6.0946,-6.0947 6.0594,-16.0963 -0.045,-22.2008 -6.105,-6.1051 -15.9886,-5.9966 -22.1435,-0.1017 l -11.6869,11.193 v 0 0 0 0 l -6.082,5.8249 c -3.3931,3.2498 -8.507,3.3037 -11.8005,0.01 -3.294,-3.2939 -3.2992,-8.4896 -0.045,-11.7433 1.6269,-1.6269 3.7393,-2.4394 5.8567,-2.4331 2.019,0.01 4.0373,0.7654 5.6489,2.2629 l 4.5435,-4.2346 0.8248,-0.8718 c -3.0404,-2.9886 -7.0232,-4.4941 -11.0061,-4.5041 z"
-           id="path27004" />
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.39432049;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m -2338.0659,1620.1202 c -4.0253,-0.01 -8.049,1.5044 -11.0963,4.5516 -6.0946,6.0948 -6.0594,16.0962 0.045,22.2009 6.105,6.105 15.9887,5.9964 22.1435,0.1015 l 11.6869,-11.193 v 0 0 0 0 l 6.0821,-5.825 c 3.3931,-3.2497 8.507,-3.3036 11.8005,-0.01 3.294,3.2939 3.2991,8.4895 0.045,11.7432 -1.6269,1.6269 -3.7393,2.4394 -5.8568,2.4331 -2.019,-0.01 -4.0373,-0.7654 -5.6488,-2.2629 l -4.5436,4.2346 -0.8247,0.8719 c 3.0404,2.9885 7.0232,4.494 11.006,4.504 4.0253,0.01 8.049,-1.5042 11.0964,-4.5515 6.0946,-6.0946 6.0594,-16.0962 -0.045,-22.2007 -6.105,-6.1051 -15.9886,-5.9966 -22.1435,-0.1017 l -11.6869,11.193 v 0 0 0 0 l -6.082,5.8249 c -3.3931,3.2498 -8.507,3.3037 -11.8005,0.01 -3.294,-3.2941 -3.2992,-8.4898 -0.045,-11.7435 1.6269,-1.6269 3.7393,-2.4394 5.8567,-2.4331 2.019,0.01 4.0373,0.7654 5.6489,2.2629 l 4.5435,-4.2346 0.8248,-0.8718 c -3.0404,-2.9886 -7.0232,-4.4941 -11.0061,-4.5041 z"
+           id="path12547-2-6-2-5-9-1"
+           transform="matrix(0.16022096,0,0,0.16022096,363.78252,-367.82605)" />
+        <circle
+           r="7.2098956"
+           cy="-105.7374"
+           cx="-8.0336752"
+           id="path4649-2"
+           style="opacity:1;fill:none;fill-opacity:0.98039216;stroke:#000000;stroke-width:0.352;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
